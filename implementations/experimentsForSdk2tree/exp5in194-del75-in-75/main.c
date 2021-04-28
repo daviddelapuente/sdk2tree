@@ -346,7 +346,7 @@ main(int argc, char *argv[]) {
 
 		char auxpath[1024];
 
-		int mNedges=edgeCount/1000000;
+		int mNedges=150;
 		strcpy(auxpath,"results/sizefiles/");
 		char intbuf[100];
 		sprintf(intbuf, "%i", mNedges);
