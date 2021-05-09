@@ -88,3 +88,5 @@ start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_pe
 0.000876;1762.417033;0.000000;0.000009;0.000009;-1.000000;-1.000000;194109311;-0.002989;194109311;-527.065399;0;-1.000000;0;-1.000000
 start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_per_list_op;time_per_check_op;add_op_count;add_op_exclusive_time;rem_op_count;rem_op_exclusive_time;list_op_count;list_op_exclusive_time;check_op_count;check_op_exclusive_time
 0.000929;1748.500175;0.000000;0.000009;0.000009;-1.000000;-1.000000;194109311;-0.002794;194109311;-549.005963;0;-1.000000;0;-1.000000
+start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_per_list_op;time_per_check_op;add_op_count;add_op_exclusive_time;rem_op_count;rem_op_exclusive_time;list_op_count;list_op_exclusive_time;check_op_count;check_op_exclusive_time
+0.001189;1676.452649;0.000000;0.000009;0.000009;-1.000000;-1.000000;194109311;-0.003423;194109311;-474.573611;0;-1.000000;0;-1.000000

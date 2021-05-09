@@ -166,9 +166,9 @@ main(int argc, char *argv[]) {
           addsOngoing = true;
         }
         scanf("%u%u", &x, &y);
-        assert(!check_link(&rep, x, y));
+
         add_link(&rep, x, y);
-	assert(check_link(&rep, x, y));
+
         addCtr++;
         break;
       case 'd':
@@ -178,11 +178,11 @@ main(int argc, char *argv[]) {
         }
         scanf("%u%u", &x, &y);
 
-	assert(check_link(&rep, x, y));
+	
 	start2 = clock();
         del_link(&rep, x, y);
 	diff2 = clock() - start2;
-	assert(!check_link(&rep, x, y));	
+
 	edgeCount2++;
 
 	for(int k=0;k<39;k++){

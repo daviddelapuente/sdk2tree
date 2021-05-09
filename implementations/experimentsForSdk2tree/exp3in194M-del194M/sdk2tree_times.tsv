@@ -88,3 +88,7 @@ start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_pe
 0.000937;1737.962475;0.000000;0.000009;0.000009;-1.000000;-1.000000;194109311;-58090909.076430;194109311;140055212.519069;0;-1.000000;0;-1.000000
 start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_per_list_op;time_per_check_op;add_op_count;add_op_exclusive_time;rem_op_count;rem_op_exclusive_time;list_op_count;list_op_exclusive_time;check_op_count;check_op_exclusive_time
 0.000919;1471.373962;0.000000;0.000004;0.000010;-1.000000;-1.000000;339691292;-1439984689.089920;145581981;139667346.670119;0;-1.000000;0;-1.000000
+start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_per_list_op;time_per_check_op;add_op_count;add_op_exclusive_time;rem_op_count;rem_op_exclusive_time;list_op_count;list_op_exclusive_time;check_op_count;check_op_exclusive_time
+0.000733;1726.210907;0.000000;0.000009;0.000009;-1.000000;-1.000000;194109311;-493930808.347649;194109311;139938653.035254;0;-1.000000;0;-1.000000
+start_time;loop_time;exclusive_save_time;time_per_add_op;time_per_rem_op;time_per_list_op;time_per_check_op;add_op_count;add_op_exclusive_time;rem_op_count;rem_op_exclusive_time;list_op_count;list_op_exclusive_time;check_op_count;check_op_exclusive_time
+0.000641;91.708606;0.000000;0.000009;0.000009;-1.000000;-1.000000;10000000;-1122744143.973129;10000000;140036394.185492;0;-1.000000;0;-1.000000
